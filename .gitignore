@@ -1,0 +1,5 @@
+.build/
+.build-app/
+*.app
+.DS_Store
+DerivedData/
